@@ -144,7 +144,7 @@ bert_predictions = bert_predict(test_loader)
 # # GPT Implementation
 #%%
 sample_size = 4
-api_key = "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"
+api_key = "<api_key_gpt>"
 #%%
 import openai
 import time
